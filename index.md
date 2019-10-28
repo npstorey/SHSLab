@@ -1,10 +1,10 @@
 ## Open positions 
 
-[Product Manager](/jobs/SHSLab_ProductManager_JobDescription.pdf)
+[Product Manager](/pdf/SHSLab_ProductManager_JobDescription.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Data Scientist](/jobs/SHSLab_DataScientist_JobDescription.pdf)
+[Data Scientist](/pdf/SHSLab_DataScientist_JobDescription.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

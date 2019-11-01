@@ -4,9 +4,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Street Homeless Solutions Lab is a new digital product and service design team within the Department of Homeless Services.
   <br><br>
   
-  <a href="https://npstorey.github.io/SHSLab/about">About</a>
+  <br>
+  ###<a href="https://npstorey.github.io/SHSLab/about">About</a>
+  <br>
   <a href="https://npstorey.github.io/SHSLab/jobs">Jobs</a>
+  <br>
   <a href="https://npstorey.github.io/SHSLab/projects">Projects</a>
+  <br>
   <a href="https://npstorey.github.io/SHSLab/contact">Contact</a>
   
 theme: jekyll-theme-minimal

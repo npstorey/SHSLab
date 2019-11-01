@@ -1,16 +1,16 @@
 ## Job Openings
 
-**Street Homeless Solutions Lab** is currently recruiting for a [Product Manager](/job_posts/product_manager.htlm) and [Data Scientist](/job_posts/data_scientist.html) to join our growing inter-disciplinary team dedicated to improving the digital products and processes used to address street homelessness in New York City.
+**Street Homeless Solutions Lab** is currently recruiting for a <a href="https://npstorey.github.io/shslab/job_posts/product_manager.html">Product Manager</a> and [Data Scientist](/job_posts/data_scientist.html) to join our growing inter-disciplinary team dedicated to improving the digital products and processes used to address street homelessness in New York City.
 
 ### <a id="Data Scientist"></a>Data Scientist
 
-The Department of Homeless Services is currently expanding StreetSmart, the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. Work has began to develop StreetSmart to cover the user needs for Street Homeless Solutions’ other two program areas, Drop-In Centers and Safe Havens.
+The Department of Homeless Services is currently expanding StreetSmart, the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. Work has begun to develop StreetSmart to cover the user needs for Street Homeless Solutions’ other two program areas, Drop-In Centers and Safe Havens.
 
 We’re looking for a Data Scientist to work with StreetSmart data to develop predictive analytic models to improve service delivery for NYC Department of Homeless Services’ work with street homeless individuals to bring them on the path to stable housing.
 
 #### What you'll do
 
-You will work with the Street Homeless Solutions division and other Department of Social Services stakeholders to develop and execute a research plan, building on past work. You will lead the efforts to explore trends in the administrative data, communicate insights generated from analysis, and develop predictive models that look at outcome likelihood based on different service usage patterns. You will be work with a small team using one of the most robust datasets about one of the most vulnerable populations, and your contributions will make a meaningful difference in how the city delivers critical services. Work tasks include, but are not limited to the following:
+You will work with the Street Homeless Solutions division and other Department of Social Services stakeholders to develop and execute a research plan, building on past work. You will lead the efforts to explore trends in the administrative data, communicate insights generated from analysis, and develop predictive models that look at outcome likelihood based on different service usage patterns. You will work with a small team using one of the most robust datasets about one of the most vulnerable populations, and your contributions will make a meaningful difference in how the city delivers critical services. Work tasks include, but are not limited to the following:
 
 - Develop SQL and Python queries to analyze the completeness and quality of key data elements in StreetSmart, including
 demographics, caseload history, mental illness diagnoses, and substance abuse details
@@ -34,7 +34,7 @@ affects decisions
 - Strong quantitative and problem-solving skills
 - Experience and passion for data wrangling, data cleaning, and ETL
 - Experience working with administrative data sets
-- Experience with statistical modelling and machine leaning analysis
+- Experience with statistical modelling and machine learning analysis
 - Experience with Bayesian analysis
 - Proficiency in GIS concepts and software (ArcGIS, Google Maps, QGIS, Carto)
 - Attention to detail for documenting work processes and writing clear instructions for technical tasks
@@ -43,7 +43,7 @@ affects decisions
 
 #### Position details
 
-- Grant-funded, 18-month position with posability of extension
+- Grant-funded, 18-month position with possibility of extension
 - Competitive salary with benefits
 - Full time
 - Job location is 33 Beaver St. in lower Manhattan (sorry, no remote work is possible)

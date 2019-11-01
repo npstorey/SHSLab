@@ -32,5 +32,12 @@ We’re looking for someone who is civic-minded, with outstanding communication 
 - Experience with social services, or the curiosity to learn the intricacies from a team of experts
 - Experience working in government, or the desire to work in the public sector
 
+#### Position details
+
+- Grant-funded, 18-month position with posability of extension
+- Competitive salary with benefits
+- Full time
+- Job location is 33 Beaver St. in lower Manhattan (sorry, no remote work is possible)
+
 To inquire about open positions with the Street Homeless Solutions Lab send an email to:
 streethomelesssolutionslab [at] gmail [dot] com

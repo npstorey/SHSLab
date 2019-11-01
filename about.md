@@ -1,6 +1,6 @@
 ## About
 
-**Street Homeless Solutions Lab** is a new service design, digital product, and data analytics team within the New York City Department of Homeless Services focused on improving the user experience of staff, vendors, and clients through the ongoing improvement of [key systems of record](#SS), policy co-creation, and decision support tools used to respond to street homelessness.
+**Street Homeless Solutions Lab** is a new service design, digital product, and data analytics team within the New York City Department of Homeless Services focused on improving the user experience of staff, vendors, and clients through the ongoing improvement of [key systems of record](#StreetSmart), policy co-creation, and decision support tools used to respond to street homelessness.
 
 We based within the [Street Homeless Solutions](#SHS) division of the [Department of Homeless Services](#DHS). We work in collaboration with the agency [Information Technology Services](#ITS) division and stakeholders accross the [Department of Social Services](#DSS).
 
@@ -22,6 +22,6 @@ For individuals unwilling to enter the traditional shelter system Street Homeles
 
 Information Technology Services (ITS) is DSS’s technology services organization. Its mission is to support the daily, emergent, and long-term needs of both agencies. ITS creates and enhances the technology infrastructure and computer applications that support HRA and DHS and develops applications, including a variety of client eligibility and recertification systems, case management systems, housing systems, employment/work engagement services, revenue producing computer matches, claiming systems, and personnel systems.
 
-### <a id="SS"></a>About StreetSmart
+### <a id="StreetSmart"></a>About StreetSmart
 
 StreetSmart is the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. StreetSmart has already improved customer service and increased productivity by providing client overview dashboards, search, filtering, and exportable data to generate reports. It also offers robust researching of client details - case management, engagements, placements, health information, and critical incidents. StreetSmart was built in 2016-2017 by a DSS ITS team practicing agile software development and working with a product manager to gather end user requirements in an interactive, ongoing manner, with user-centered design principles articulated by New York City’s Civic Service Design Studio. StreetSmart has been recognized in publications including WIRED, Mashable, Endgadget, and Government Technology.

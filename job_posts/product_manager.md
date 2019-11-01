@@ -4,7 +4,7 @@
 
 ### <a id="Product Manager"></a>Product Manager
 
-The Department of Homeless Services is currently expanding StreetSmart, the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. Work has began to develop StreetSmart to cover the user needs for Street Homeless Solutions’ other two program areas, Drop-In Centers and Safe Havens.
+The Department of Homeless Services is currently expanding StreetSmart, the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. Work has begun to develop StreetSmart to cover the user needs for Street Homeless Solutions’ other two program areas, Drop-In Centers and Safe Havens.
 
 We’re looking for a Product Manager with digital product experience who’s excited about bringing modern software development and user centered design into city government to support the NYC Department of Homeless Services’ work with street homeless individuals to bring them on the path to stable housing.
 
@@ -34,7 +34,7 @@ We’re looking for someone who is civic-minded, with outstanding communication 
 
 #### Position details
 
-- Grant-funded, 18-month position with posability of extension
+- Grant-funded, 18-month position with possibility of extension
 - Competitive salary with benefits
 - Full time
 - Job location is 33 Beaver St. in lower Manhattan (sorry, no remote work is possible)

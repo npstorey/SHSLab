@@ -1,12 +1,12 @@
 ## About
 
-**Street Homeless Solutions Lab** is a new service design, digital product, and data analytics team within the New York City [Department of Homeless Services](#About Department of Social Services) focused on improving the user experience of staff, vendors, and clients through the ongoing improvement of key systems of record, policy co-creation, and decision support tools used to respond to street homelessness.
+**Street Homeless Solutions Lab** is a new service design, digital product, and data analytics team within the New York City [Department of Homeless Services](#DHS) focused on improving the user experience of staff, vendors, and clients through the ongoing improvement of key systems of record, policy co-creation, and decision support tools used to respond to street homelessness.
 
 We are a new team within the Street Homeless Solutions division of the Department of Homeless Services. We work in collaboration with stakeholders accross the Department of Social Services.
 
 We are inspired by [NYC Planning Lab](https://labs.planning.nyc.gov/), [NYC Civic Service Design Studio](https://civicservicedesign.com/), [18F](https://18f.gsa.gov/), and many others.
 
-### About Department of Social Services
+### <a id="DHS"></a>About Department of Social Services
 
 The Department of Social Services (DSS) is comprised of the administrative units of the New York City Human Resources Administration (HRA) and the Department of Homeless Services (DHS). HRA is dedicated to fighting poverty and income inequality by providing New Yorkers in need with essential benefits such as Food Assistance and Emergency Rental Assistance. DHS is committed to preventing and addressing homelessness in New York City by employing a variety of innovative strategies to help families and individuals successfully exit shelter and return to self-sufficiency as quickly as possible.
 

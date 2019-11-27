@@ -16,7 +16,7 @@ Governed by a unique right to shelter mandate, New York City provides temporary 
 
 ### <a id="SHS"></a>About Street Homeless Solutions
 
-For individuals unwilling to enter the traditional shelter system Street Homeless Solutions provides an array of services to street homeless individuals to assist them off the street and to address mental health, substance abuse, and other issues. The City contracts with nonprofit providers to operate street Outreach Teams, Drop-In Centers and Safe Havens. Outreach teams work in all five boroughs and the subway with unsheltered individuals living on the streets of New York City.
+DHS Street Homeless Solutions oversees the implementation of the citywide HOME-STAT outreach effort—the most comprehensive street outreach program in the nation— through which hundreds of highly-trained not-for-profit outreach staff, including licensed social workers, canvass the streets, proactively engaging homeless New Yorkers, offering services and assistance, and working to gain their trust with the goal of addressing the underlying issues that may have caused or contributed to their street homelessness in order to ultimately help these individuals transition off the streets into permanent and transitional settings, including specialized Safe Haven shelters.
 
 ### <a id="ITS"></a>About Information Technology Services
 

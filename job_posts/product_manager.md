@@ -2,8 +2,6 @@
 
 **As of 12/20/19 this position has been filled**
 
-**Street Homeless Solutions Lab** is currently recruiting for a <a href="https://npstorey.github.io/shslab/job_posts/product_manager.html">Product Manager</a> and <a href="https://npstorey.github.io/shslab/job_posts/data_scientist.html">Data Scientist</a> to join our growing inter-disciplinary team dedicated to improving the digital products and processes used to address street homelessness in New York City.
-
 ### <a id="Product Manager"></a>Product Manager
 
 The Department of Homeless Services is currently expanding StreetSmart, the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. Work has begun to develop StreetSmart to cover the user needs for Street Homeless Solutions’ other two program areas, Drop-In Centers and Safe Havens.

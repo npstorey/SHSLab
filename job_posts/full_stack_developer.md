@@ -31,4 +31,4 @@ Responsibilities include, but are not limited to:
 - Software: Visual Studio 2005 – 2015, SQL Server 2005-2014, SSIS, SSRS, SharePoint, MS Source Safe, MS TFS, Git, IIS, JIRA
 - Database: SQL Server
 
-
+To inquire about open positions with the Street Homeless Solutions Lab or with the StreetSmart ITS team send an email to: streethomelesssolutionslab [at] gmail [dot] com

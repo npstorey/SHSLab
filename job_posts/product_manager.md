@@ -1,6 +1,6 @@
 ## Job Openings
 
-**As of 12/20/19 this position has been filled**
+**As of 11/20/19 this position has been filled**
 
 ### <a id="Product Manager"></a>Product Manager
 

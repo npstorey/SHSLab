@@ -1,6 +1,6 @@
 ## Job Openings
 
-**Street Homeless Solutions Lab** is currently recruiting for a <a href="https://npstorey.github.io/shslab/job_posts/product_manager.html">Product Manager</a> and <a href="https://npstorey.github.io/shslab/job_posts/data_scientist.html">Data Scientist</a> to join our growing inter-disciplinary team dedicated to improving the digital products and processes used to address street homelessness in New York City.
+**As of 12/17/19 this position has been filled**
 
 ### <a id="Data Scientist"></a>Data Scientist
 

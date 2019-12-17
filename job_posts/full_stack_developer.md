@@ -4,7 +4,7 @@
 
 The Department of Homeless Services is currently expanding StreetSmart, the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. We’re looking for a Full Stack Developer to work with the Information Technology Services (ITS) team to develop the next phase of StreetSmart. 
 
-You will work directly in the ITS team practicing agile software development and working with the product manager at the Street Homeless Solutions Lab to gather end user requirements in an interactive, ongoing manner, with user-centered design principles articulated by New York City’s Civic Service Design Studio (civicservicedesign.com). StreetSmart has been recognized in publications including WIRED, Mashable, Endgadget, and Government Technology.
+You will work directly in the ITS team practicing agile software development, in collaboration with the product manager from the Street Homeless Solutions Lab. StreetSmart has been recognized in publications including WIRED, Mashable, Endgadget, and Government Technology.
 
 Starting in July, 2019 StreetSmart will be expanded to cover the user needs for Street Homeless Solutions’ other two program areas, Drop-In Centers and Safe Havens.
 

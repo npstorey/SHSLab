@@ -1,5 +1,7 @@
 ## Job Openings
 
+**These position have been filled**
+
 ### <a id="Full Stack Developer"></a>Full Stack Developer
 
 The Department of Homeless Services is currently expanding StreetSmart, the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. We’re looking for a Full Stack Developer to work with the Information Technology Services (ITS) team to develop the next phase of StreetSmart. 
